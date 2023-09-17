@@ -59,6 +59,7 @@ a {
 }
 .header {
   background: radial-gradient(#fff, #ffd6d6);
+  height:100vh;
 }
 .header .section {
   margin-top: 50px;
